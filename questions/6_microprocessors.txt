@@ -1,0 +1,35 @@
+1. In 8086 the overflow flag is set when 
+a) The sum is more than 16 bits 
+b) Signed numbers go out of their range after an arithmetic operation 
+c) Carry and sign flags are set 
+d) During subtraction 
+ans:b
+
+2. The advantage of memory mapped I/O over I/O mapped I/O is, 
+a) Faster 
+b) Many instructions supporting memory mapped I/O 
+c) Require a bigger address decoder 
+d) All the above 
+ans:d
+
+3. BHE  of 8086 microprocessor signal is used to interface the 
+a) Even bank memory 
+b) Odd bank memory 
+c) I/O 
+d) DMA 
+ans:b
+
+4. In 8086 microprocessor the following has the highest priority among all type 
+interrupts. 
+a) NMI 
+b) DIV 0 
+c) TYPE 255 
+d) OVER FLOW
+ans:a
+
+5. In 8086 microprocessor one of the following statements is not true. 
+a) Coprocessor is interfaced in MAX mode 
+b) Coprocessor is interfaced in MIN mode 
+c) I/O can be interfaced in MAX / MIN mode 
+d) Supports pipelining
+ans:b

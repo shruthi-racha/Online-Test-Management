@@ -1,0 +1,40 @@
+1.The relational database environment has all of the following components except
+a. users
+b. separate files
+c. database
+d. query languages
+
+ans:b
+
+2.The language used application programs to request data from the DBMS is 
+referred to as the
+a. DML
+b. DDL
+c. query language
+d. any of the above
+
+ans:a
+
+3.The highest  level in the hierarchy of data organization is called
+a. data bank
+b. data base
+c. data file
+d. data record
+
+ans:b
+
+4.Report generators are used to 
+a. store data input by a user
+b. retrieve information from files
+c. answer queries
+d. both b and c
+
+ans:d
+
+5.A top-to-bottom relationship among the items in a database is established by a 
+a. hierarchical schema
+b. network schema
+c. relational schema
+d. all of the above
+
+ans:a

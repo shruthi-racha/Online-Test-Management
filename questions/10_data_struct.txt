@@ -1,0 +1,40 @@
+13. Which of the following data structure is not linear data structure?
+a. Arrays
+b. Linked lists
+c. Both of above
+d. None of above
+
+ans:d
+
+14. Which of the following data structure is linear data structure?
+a. Trees
+b. Graphs
+c. Arrays
+d. None of above
+
+ans:c
+
+15. The operation of processing each element in the list is known as
+a. Sorting
+b. Merging
+c. Inserting
+d. Traversal
+
+ans:d
+
+16. Finding the location of the element with a given value is:
+a. Traversal
+b. Search
+c. Sort
+d. None of above
+
+ans:b
+
+
+17. Arrays are best data structures
+a. for relatively permanent collections of data
+b. for the size of the structure and the data in the structure are constantly changing
+c. for both of above situation
+d. for none of above situation
+
+ans:a

@@ -1,0 +1,45 @@
+	
+1.How many digits of the DNIC (Data Network Identification Code) identify the country?
+
+A.first three
+B.first four
+C.first five
+D.first six
+
+ans:A
+
+2.A station in a network forwards incoming packets by placing them on its shortest output queue. What routing algorithm is being used?
+
+A.hot potato routing
+B.flooding
+C.static routing
+D.delta routing
+
+ans:A
+
+3.Frames from one LAN can be transmitted to another LAN via the device
+
+A.Router
+B.Bridge
+C.Repeater	
+D.Modem
+
+ans:B
+
+4.Which of the following condition is used to transmit two packets over a medium at the same time?
+
+A.Contention
+B.Collision
+C.Synchronous
+D.Asynchronous
+
+ans:B
+
+5.Avalanche photodiode receivers can detect hits of transmitted data by receiving
+
+A.100 photons
+B.200 photons
+C.300 photons
+D.400 photons
+
+ans:B

@@ -1,0 +1,39 @@
+1.If s = "text", what is the value returned by s.length()? 
+a.false  
+b.true  
+c.4  
+d.5
+
+ans: c
+
+2.What is the difference between a TextArea and a TextField? 
+a.A TextArea can handle multiple lines of text  
+b.A textarea can be used for output  
+c.TextArea is not a class  
+d.TextAreas are used for displaying graphics 
+
+ans: a
+
+3.A compound statement is: 
+a.A collection of one or more statements enclosed in 
+braces  
+b.A statement involving if and else  
+c.A way of declaring variables d.A way of setting the value of a variable  
+
+ans:a
+
+4.The following is NOT an example of a data type. 
+a.int  
+b.public  
+c.Button  
+d.void  
+
+ans:b
+
+5.The following a legal Java statement 
+a.m1 = new TextField("sixty");
+b.1a = 6;  
+c.add(m1);  
+d.m1.setText("Hello world); 
+
+ans:c 

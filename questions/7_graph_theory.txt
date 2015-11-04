@@ -1,0 +1,39 @@
+1. When a vertex Q is connected by an edge to a vertex K, what is the term for the relationship between Q and K?
+ a.Q and K are "adjacent."
+ b.Q and K are "isolated."
+ c.Q and K are "incident."
+ d.Q and K are "insecure."
+
+ans:a
+
+2. Isomorphism is similar to equality, but more general. Of the following common graphs, which two are isomorphic?
+ a.The path graph on four vertices and the complete graph on four vertices.
+ b.The cyclic graph on three vertices and the complete graph on three vertices.
+ c.The utility graph and the complete graph on six vertices.
+ d.The cyclic graph on five vertices and the wheel graph on five vertices.
+
+ans:b
+
+3.The complete graph, denoted Kv (where v represents the number of vertices, and v is a positive integer), is the graph having all possible edges.Which of the following formulas gives the number of edges (e) of the complete graph on v vertices?
+ a.e = 2(v-1)
+ b.e = (1/2)v(v-1)
+ c.e = v-1
+ d.e = 2(v+1)
+
+ans:b
+
+4.Which of the following graphs can be drawn without edge crossings?
+ a.The complete graph on five vertices.
+ b.The wheel graph on ten vertices.
+ c.The complete graph on six vertices.
+ d.The utility graph.
+
+ans:b
+
+5.There are thirty-four possible (not isomorphic) graphs with five vertices. Which of the following graphs is isomorphic to its OWN compliment?
+ a.The complete graph on five vertices.
+ b.The null graph on five vertices.
+ c.The path graph on five vertices.
+ d.The cyclic graph on five vertices.
+
+ans:d

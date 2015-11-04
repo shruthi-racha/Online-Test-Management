@@ -1,0 +1,39 @@
+1. Two main measures for the efficiency of an algorithm are
+a. Processor and memory
+b. Complexity and capacity
+c. Time and space
+d. Data and space
+
+ans:c
+
+2. The time factor when determining the efficiency of algorithm is measured by
+a. Counting microseconds 
+b. Counting the number of key operations
+c. Counting the number of statements
+d. Counting the kilobytes of algorithm
+
+ans:b
+
+3. The space factor when determining the efficiency of algorithm is measured by
+a. Counting the maximum memory needed by the algorithm
+b. Counting the minimum memory needed by the algorithm
+c. Counting the average memory needed by the algorithm
+d. Counting the maximum disk space needed by the algorithm
+
+ans:a
+
+4. Which of the following case does not exist in complexity theory
+a. Best case
+b. Worst case
+c. Average case
+d. Null case
+
+ans:d
+
+5. The Worst case occur in linear search algorithm when 
+a. Item is somewhere in the middle of the array
+b. Item is not in the array at all
+c. Item is the last element in the array
+d. Item is the last element in the array or is not there at all
+
+ans:d

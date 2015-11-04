@@ -1,0 +1,39 @@
+1)The North West Corner rule
+ A.is used to find an initial feasible solution	
+ B.is used to find an optimal solution
+ C.is based on the concept of minimizing opportunity cost
+ D.none of the given
+
+ans: a
+
+2) Which of the following assertations is true of an optimal solution to an Linear Programming Problem?
+ A.Every LP has an optimal solution	 
+ B.The optimal solution always occur at extreme points
+ C.If an optimal solution exists, there will always be atleast one at a corner
+ D.All of the given	 
+
+ans:d
+
+3)The scientific method in O.R. study generally involves
+ A.Judgement Phase
+ B.Research Phase
+ C.Action Phase
+ D.All of the given	 
+
+ans:d
+
+4)Which of the following is not a major requirement of a Linear Programming Problem?
+ A.There must be alternative course of action among which to decide
+ B.An objective for the firm must exist
+ C.The problem must be of maximization type
+ D.Resources must be limited
+
+ans:c
+
+5)A competitive situation is known as a 'game' if it has given characterstics
+ A.numbers of players is finite	 (Your Answer)
+ B.the players make individual decision without direct communication
+ C.the payoff is fixed and determined in advance
+ D.all given
+
+ans:d

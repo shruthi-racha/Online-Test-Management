@@ -1,0 +1,39 @@
+1.A function that calls itself for its processing is known as
+a. Inline Function
+b. Nested Function
+c. Overloaded Function
+d. Recursive Function
+
+ans:d
+
+2.We declare a function with ______ if it does not have any return type
+a. long
+b. double
+c. void
+d. int
+
+ans:c
+
+3.Arguments of a functions are separated with
+a. comma
+b. semicolon 
+c. colon 
+d. None of these
+
+ans:a
+
+4.Variables inside parenthesis of functions declarations have _____ level access.
+a. Local
+b. Global
+c. Module
+d. Universal
+
+ans:a
+
+5.The keyword endl
+a. Ends the execution of program where it is written
+b. Ends the output in cout statement
+c. Ends the line in program. There can be no statements after endl
+d. Ends current line and starts a new line in cout statement.
+
+ans:d
